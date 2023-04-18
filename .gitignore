@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# After installation dependancies for pytorch3d
+1.10.0.tar.gz
+cub-1.10.0/
